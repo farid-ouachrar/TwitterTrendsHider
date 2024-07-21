@@ -40,7 +40,7 @@ Contributions are welcome! If you have a bug to report or a feature to suggest, 
 
 ## License
 
-[Include your chosen license here, e.g., MIT, GPL, etc.]
+MIT
 
 ## Contact
 
