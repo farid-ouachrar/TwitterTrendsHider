@@ -1,0 +1,3 @@
+[data-testid="sidebarColumn"] [data-testid="trend"] {
+  display: none !important;
+}

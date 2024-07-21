@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <!-- Black background -->
+    <rect width="200" height="200" fill="#000000" />
+    
+    <!-- Red X logo -->
+    <path d="M40 40 L160 160 M160 40 L40 160" stroke="#FF0000" stroke-width="24" stroke-linecap="round" />
+  </svg>
